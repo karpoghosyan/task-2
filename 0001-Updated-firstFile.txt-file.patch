@@ -1,0 +1,27 @@
+From bf6a7652fd51d9474fd57867d97f07a2523269ab Mon Sep 17 00:00:00 2001
+From: Karen Poghosyan <karpoghosyan99@gmail.com>
+Date: Thu, 19 Oct 2023 12:19:28 +0400
+Subject: [PATCH] Updated firstFile.txt file
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..5b5cfba 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -3,8 +3,8 @@
+ 3
+ 4
+ 5
+-6
+-7
++16
++17
+ 8
+ 9
+ 10
+-- 
+2.34.1
+
